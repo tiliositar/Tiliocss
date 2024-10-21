@@ -1,0 +1,73 @@
+body{
+    width: 70%;
+    margin: auto;    
+}
+
+main{  
+    background-color: rgb(245, 193, 175);
+    margin: auto;
+    border:2px solid black;
+    padding: 5px;
+}
+h1{
+    
+}
+
+p{
+    background-color: blue;
+    color:whitesmoke;
+}
+
+.tiliostyles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: yellow;
+}
+
+/*ul{
+    text-decoration: none;
+}
+li{
+    display: block;    
+}
+a{
+    text-decoration: none;
+}*/
+
+.sectionstyle{
+  
+    background-color: chartreuse;
+}
+
+#h1styles{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/*Nav menu styling*/
+
+ul{
+   
+}
+
+ul>li{
+    list-style: none;
+    display: inline;
+}
+ul>li>a{
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    margin-left: 4px;
+    padding: 5px;
+}
+ul>li>a:hover{
+    color:green;
+    background-color: white;
+}
+.selected{
+    color:green;
+    background-color: rgb(221, 252, 81);
+}
+
